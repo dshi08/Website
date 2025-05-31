@@ -34,7 +34,7 @@ export default function Home() {
       {/* Name and tagline */}
       <div style={{ textAlign: "center" }}>
         <h1 style={{ fontSize: "2.5rem", fontWeight: "bold", color: "#1F2937", marginTop: "1rem" }}>
-          Hi, I'm David
+          Hi, I&apos;m David
         </h1>
         <p style={{ fontSize: "1.25rem", color: "#4B5563", marginTop: "0.5rem", maxWidth: "600px" }}>
           hello world hello world hello world hello world hello world hello world
